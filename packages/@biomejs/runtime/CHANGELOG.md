@@ -1,5 +1,12 @@
 # @biomejs/runtime
 
+## 2.6.8
+
+### Patch Changes
+
+- Updated dependencies [[`596a2b1`](https://github.com/biomejs/biome/commit/596a2b17fbc642fca92ab6b8040314818f49d144), [`d3be626`](https://github.com/biomejs/biome/commit/d3be626ab75ea3a4db7df9e3180864d97f86f8d5), [`87784c7`](https://github.com/biomejs/biome/commit/87784c7b9ad9e67da665687cfc22430308f17ffe), [`87784c7`](https://github.com/biomejs/biome/commit/87784c7b9ad9e67da665687cfc22430308f17ffe), [`87784c7`](https://github.com/biomejs/biome/commit/87784c7b9ad9e67da665687cfc22430308f17ffe), [`ca039a1`](https://github.com/biomejs/biome/commit/ca039a13fb60ee7895a7eb2ef6f47170f4844738)]:
+  - @biomejs/biome@2.6.8
+
 ## 2.6.7
 
 ### Patch Changes
